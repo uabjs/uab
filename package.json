@@ -1,0 +1,24 @@
+{
+  "name": "uab",
+  "version": "1.0.1",
+  "description": "A simple and straightforward web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uabjs/uab.git"
+  },
+  "keywords": [
+    "easy",
+    "simple",
+    "lightweight",
+    "direct",
+    "mvvm",
+    "ts"
+  ],
+  "homepage": "https://github.com/uabjs/uab#readme",
+  "author": "shunyue",
+  "license": "ISC"
+}
